@@ -1,13 +1,19 @@
 +++
 title = "About me"
 draft = false
+image = "img_2263-2-2-.jpg"
 description = ""
-image = ""
 +++
-![](/img/default-author.jpg)
+![](meeeeeeeeeeeeeee-2-1-1-1-2-.png)
 
-## My Name
+## Timea Meyer
 
-mail@example.org
+##### Mail:
 
-Here should be some info about me...
+timea.meyer@mygymer.ch (Schule)
+
+timeameyer@gmx.ch (Privat)
+
+##### Social Media:
+
+Insta: <https://www.instagram.com/timerisli13/>

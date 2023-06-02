@@ -68,7 +68,7 @@ Es gibt verschiedene Kategorien von Klimaschutzprojekten:
 
 {{</box>}{$
 
-{{</box>}}
+{{<box>}}
 
 
 

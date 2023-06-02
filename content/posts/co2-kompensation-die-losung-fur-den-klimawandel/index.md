@@ -70,6 +70,8 @@ Es gibt verschiedene Kategorien von Klimaschutzprojekten:
 
 **Doch was ist nun die Lösung?**
 
+![ Einkaufskorb mit verschiedenen "klimaneutralen" Produkten Foto: Nouria Felder (26.04.2023)  ](whatsapp-image-2023-04-27-at-11.10.29.jpeg)
+
 Sicher braucht es bessere Regeln und Gesetze für sogenannte “green claims”. So schreibt die Verbraucherzentrale Deutschland in einer Stellungnahme für den deutschen Bundestag vom 3. November 2022iii:\
 «Klimaneutralitäts-Claims und ihre Äquivalente sollten aus Sicht des vzbv explizit verboten werden. Orientierung bieten kann hier ein entsprechendes französisches Gesetz, da es verbietet zu behaupten, „dass ein Produkt oder eine Dienstleistung CO2-neutral ist, oder Formulierungen mit gleichwertiger Bedeutung oder Tragweite“ zu verwenden.»
 

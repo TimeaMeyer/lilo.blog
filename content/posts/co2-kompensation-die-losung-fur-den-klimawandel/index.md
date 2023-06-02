@@ -39,6 +39,8 @@ Zeit”i haben sich eine Start-up Firma ausgedacht, und dann bei myclimate probi
 Auf Nachfrage der Journalistinnen, schrieb myclimate, dass es gar nicht möglich sei, alles zu überprüfen, und dass sie deshalb den Unternehmen ein Vertrauensvorschuss gegeben müssen. Ausserdem wird aus der Recherche der beiden klar, wie wenig es eigentlich kostet die errechneten 6,4 Tonnen CO2 zu kompensieren. So halten sie in dem am 8. September 2022 erschienen Artikel folgendes fest:
 
 > «Schließlich sollen wir 571 Euro zahlen. Die Einzelposten auf der Rechnung sind bemerkenswert: 422,65 Euro verlangt myclimate dafür, dass wir das Label nutzen dürfen. Nur 149 Euro fließen in das Klimaprojekt, um tatsächlich CO2 einzusparen.»
+>
+> * *Astrid Geisler & Hanna Knuth* [Link: https://www.zeit.de/2022/37/klimalabel-klimaneutralitaet-klimaschutz-versprechen](https://www.zeit.de/2022/37/klimalabel-klimaneutralitaet-klimaschutz-versprechen)
 
 Es gibt Prüfungssiegel, aus welchen die Firmen auswählen können, welches zu ihnen passt. Die Prüfungssiegel sind private Unternehmen, die ihr Geld damit verdienen, indem sie die Firmen "prüfen".\
 So schrieb die NZZ in einem Artikel vom 14.03.2023ii: «Doch jüngste Enthüllungen könnten dem boomenden Geschäft mit den Klimakompensationen nun einen harten Schlag versetzen. Auslöser ist eine Ende Januar publizierte Recherche der deutschen «Zeit», des britischen «Guardian» und des Reporterpools «Source Material».
@@ -61,7 +63,9 @@ Es gibt verschiedene Kategorien von Klimaschutzprojekten:
 * «Kaufe ein Produkt, pflanze einen Baum». Solche Strategien sind sehr beliebt, jedoch meistens nutzlos, wie uns Frau Huber von ClimatePartner erklärt. Diese Projekte sind nicht sehr nachhaltig und effizient. Meist werden einfach Monokulturen in irgendeinem Klima angepflanzt, ohne dass die Bedürfnisse der Baumart vorgängig abgeklärt werden, so dass sie nicht gut wachsen. «Wenn Bäume gepflanzt werden, soll mit Experten gearbeitet werden und alles wissenschaftlich geregelt werden», führt sie weiter aus.\
   Das Pflanzen allein reicht also nicht, um etwas zum Klimawandel beizutragen.
 * Waldschutzprojekte sind etwas anders, denn bei ihnen wird schon bestehender Wald geschützt. Obwohl manche Regionen schon als Schutzgebiet gelten, können diese immer noch gefährdet sein, sagt uns Frau Huber. Zum Beispiel das Waldschutzprojekt ‘Madre de Dios’ in Peru. ClimatePartner schützt diesen Wald, da er von einem Strassenbauprojekt (Transamazonas) bedroht ist. Hier geht es darum, dieses Gebiet langfristig zu erhalten und zu schützen.
-* Eine weitere Kategorie von Projekten befasst sich mit Energieproblemen. Hier sorgen die Firmen für effizientere und saubere Technologien, meist in Entwicklungsländer. Frau Huber sprach mit uns über ein Projekt in Ruanda. Der Wald sei dort bedroht, weil die Bevölkerung immer mehr Brennholz für den Haushalt bräuchte. Firmen wie ClimatePartner biete ihnen saubere Öfen an, um das Ökosystem zu schützen und somit CO2 einzusparen.{{<box>}}
+* Eine weitere Kategorie von Projekten befasst sich mit Energieproblemen. Hier sorgen die Firmen für effizientere und saubere Technologien, meist in Entwicklungsländer. Frau Huber sprach mit uns über ein Projekt in Ruanda. Der Wald sei dort bedroht, weil die Bevölkerung immer mehr Brennholz für den Haushalt bräuchte. Firmen wie ClimatePartner biete ihnen saubere Öfen an, um das Ökosystem zu schützen und somit CO2 einzusparen.
+
+
 
 **Doch was ist nun die Lösung?**
 

@@ -53,7 +53,7 @@ Dieser Artikel zeigt, wie undurchsichtig dieses Geschäft ist. Firmen, die unre
 
 Ausserdem beinhalten Messungen oft nicht alle externen Faktoren, die wiederum umweltschädlich oder sozial unverträglich sein können. Eine klimaneutrale Schokoladentafel; zum Beispiel - sie hat zwar einen geringen Fussabdruck, aber was ist mit den Bauern, die die Kakaobohnen unter schlechten Arbeitsbedingungen angebaut haben?
 
-`{{<box title="`Die verschiedenen Arten von Klimaschutzprojekte`">}}`
+`{{<box title="Die verschiedenen Arten von Klimaschutzprojekte">}}`
 
 Nachdem sich dein Unternehmen mit seinem Fussabdruck befasst hat und seine Emissionen nach und nach durch innovative Lösungen zu senken beginnt, werden die restlichen Emissionen durch Klimaschutzprojekte kompensiert.\
 Es gibt verschiedene Kategorien von Klimaschutzprojekten:
@@ -62,3 +62,31 @@ Es gibt verschiedene Kategorien von Klimaschutzprojekten:
   Das Pflanzen allein reicht also nicht, um etwas zum Klimawandel beizutragen.
 * Waldschutzprojekte sind etwas anders, denn bei ihnen wird schon bestehender Wald geschützt. Obwohl manche Regionen schon als Schutzgebiet gelten, können diese immer noch gefährdet sein, sagt uns Frau Huber. Zum Beispiel das Waldschutzprojekt ‘Madre de Dios’ in Peru. ClimatePartner schützt diesen Wald, da er von einem Strassenbauprojekt (Transamazonas) bedroht ist. Hier geht es darum, dieses Gebiet langfristig zu erhalten und zu schützen.
 * Eine weitere Kategorie von Projekten befasst sich mit Energieproblemen. Hier sorgen die Firmen für effizientere und saubere Technologien, meist in Entwicklungsländer. Frau Huber sprach mit uns über ein Projekt in Ruanda. Der Wald sei dort bedroht, weil die Bevölkerung immer mehr Brennholz für den Haushalt bräuchte. Firmen wie ClimatePartner biete ihnen saubere Öfen an, um das Ökosystem zu schützen und somit CO2 einzusparen.{{<box>}}
+
+**Doch was ist nun die Lösung?**
+
+Sicher braucht es bessere Regeln und Gesetze für sogenannte “green claims”. So schreibt die Verbraucherzentrale Deutschland in einer Stellungnahme für den deutschen Bundestag vom 3. November 2022iii:\
+«Klimaneutralitäts-Claims und ihre Äquivalente sollten aus Sicht des vzbv explizit verboten werden. Orientierung bieten kann hier ein entsprechendes französisches Gesetz, da es verbietet zu behaupten, „dass ein Produkt oder eine Dienstleistung CO2-neutral ist, oder Formulierungen mit gleichwertiger Bedeutung oder Tragweite“ zu verwenden.»
+
+In diesem Abschnitt wird das am 25. August 2021 in Kraft getretene französische Gesetziv erwähnt, in dem es Unternehmen verboten wird in einer Werbung zu behaupten, ein Produkt sei klimaneutral, sofern nicht eine CO2-Bilanz des Produkts sowie der Weg zur Verringerung der Treibhausgas Emissionen öffentlich leicht zugänglich gemacht wird.
+
+Solche und noch verbesserte Gesetze bräuchte es in allen Ländern.\
+Es müsste eine international unabhängige Organisation geben, die sowohl die Firmen als auch die CO2-Zertifikate prüft, damit nicht die monetären Interessen einer privaten Instanz die Entscheidung beeinflussen können.
+
+In der Schweiz sind während unserer Recherche einige kritikreiche Artikel erschienen. In einem Bund Artikelv vom 15.04.2023 wird darüber berichtet wie Greenpeace verschiedene Unternehmen (darunter auch Migros und Coop) des Greenwashings und der Intransparenz beschuldigt. Als Reaktion darauf verabschieden sich manche Unternehmen von ihrem “klimaneutral” Label.\
+Auch ClimatePartner hat vor kurzem ihr Label für Klimaneutralität abgeschafft und durch ein neues ersetzt.
+
+«ClimatePartner zertifizert» soll es nun heissen.\
+«Es geht um die Sache und nicht um den Begriff», erwidert Lina auf unsere Frage, ob sie diese Entscheidung unterstützt.
+
+Es ist wichtiger die Leute aufzuklären, was Klimaneutralität überhaupt beinhaltet. Laut einer Studie von Lebensmittelklarheit.devi konnten nämlich nur 10 Prozent der Befragten den Zusammenhang von “Klimaneutralität” und Kompensation korrekt einordnen.
+
+Der ganze Markt wird aktuell von verschiedenen Seiten und Klimaschutzorganisationen analysiert und näher angeschaut. Sie kritisieren unteranderem, dass sich Unternehmen vom wahren Problem „freikaufen“, statt sich damit zu befassen. Dazu meint auch Lina, die das Thema mitverfolgt hat:
+
+> «Es ist ein moderner Ablasshandel, ich «sündige» und danach zahle ich halt ein bisschen mehr.»
+
+Auf die Frage, was man als Konsument machen könnte, gibt Lorena Huber uns den Tipp, dass man darauf achten solle, ob sich das Label nur auf das Produkt bezieht oder auf das Ganze Unternehmen. Sie macht auch klar, dass bei vielen Unternehmen nicht alle Faktoren in die CO2-Bilanz miteinbezogen werden.
+
+Wichtig ist, schreibt auch die deutsche Verbraucherzentrale in ihrem Artikel über “Klimaneutale” Produktevii, dass nur ein grünes Label nicht unbedingt ein Kaufgrund sein sollte. Vor allem bei Produkten, die sonst als eher klimaschädlich eingestuft werden (zu Beispiel Fleisch oder Avocados).
+
+Um also zu unserer Ausgangsfrage zurückzukommen, wie soll Lina sich beim Einkaufen verhalten? Ehrlich gesagt, das Geld, das sie spart, könnte effektiver verwendet werden, wenn sie es direkt einer Umwelt- oder Hilfsorganisation spenden, oder regional und saisonal einkaufen würde.

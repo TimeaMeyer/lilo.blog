@@ -23,7 +23,7 @@ Stell dir vor, du hast ein Unternehmen und dein Ziel ist es, bis ins Jahr 2040 N
 
 Dein Unternehmen hat jetzt die Möglichkeit, einer spezialisierten Firma (in unserem Bespiel ClimatePartner) Geld zu zahlen, damit diese den CO2-Fussabdruck deines Unternehmens berechnet. Sie zeigt dir diverse Strategien auf, wie du dem Ziel Netto-Null näherkommen kannst. Wir haben mit Lorena Huber, die Sustainability Consultant von ClimatePartner, ein Interview über Teams geführt. Die professionell wirkende junge Frau sitzt passend zu unserem Thema vor einem Bild eines grünen Regenwaldes und dem Logo von ClimatePartner. So berichtet sie uns: «ClimatePartner ist eine Rundumlösung. Im besten Fall für Kunden, die sich effektiv für Klimaschutz interessieren, das heisst für Kunden die wirklich eine Klimaschutzstrategie aufbauen möchten, die vielleicht noch keine Vorstellungen haben, wie man Klimaschutz im Unternehmen umsetzen kann.» Der Rest der Emissionen, der nicht durch diese Strategien eingespart werden kann, wird dann durch CO2 Zertifikate kompensiert. Frau Huber erklärt uns, dass es bei ClimatePartner so sei, dass die Firma mit ihren Kunden nach nachhaltigen und langfristigen Lösungen suche, damit eines Tages der Kunde gar keine Emissionen mehr verursache. An dieser Stelle würde man dann von Netto-Null sprechen.
 
-![Foto: Timea Meyer (26.04.2023)  ](photo-2023-04-26-19-51-44.png "Honig mit dem ClimatePartner Siegel")
+![Honig mit dem ClimatePartner Siegel Foto: Timea Meyer (26.04.2023)  ](photo-2023-04-26-19-51-44.png "Honig mit dem ClimatePartner Siegel")
 
 **Umstrittene Kompensation**
 
@@ -64,15 +64,3 @@ Das Pflanzen allein reicht also nicht, um etwas zum Klimawandel beizutragen.
 Waldschutzprojekte sind etwas anders, denn bei ihnen wird schon bestehender Wald geschützt. Obwohl manche Regionen schon als Schutzgebiet gelten, können diese immer noch gefährdet sein, sagt uns Frau Huber. Zum Beispiel das Waldschutzprojekt ‘Madre de Dios’ in Peru. ClimatePartner schützt diesen Wald, da er von einem Strassenbauprojekt (Transamazonas) bedroht ist. Hier geht es darum, dieses Gebiet langfristig zu erhalten und zu schützen.
 
 Eine weitere Kategorie von Projekten befasst sich mit Energieproblemen. Hier sorgen die Firmen für effizientere und saubere Technologien, meist in Entwicklungsländer. Frau Huber sprach mit uns über ein Projekt in Ruanda. Der Wald sei dort bedroht, weil die Bevölkerung immer mehr Brennholz für den Haushalt bräuchte. Firmen wie ClimatePartner biete ihnen saubere Öfen an, um das Ökosystem zu schützen und somit CO2 einzusparen.
-
-```
-Nachdem sich dein Unternehmen mit seinem Fussabdruck befasst hat und seine Emissionen nach und nach durch innovative Lösungen zu senken beginnt, werden die restlichen Emissionen durch Klimaschutzprojekte kompensiert.\
-Es gibt verschiedene Kategorien von Klimaschutzprojekten:
-
-«Kaufe ein Produkt, pflanze einen Baum». Solche Strategien sind sehr beliebt, jedoch meistens nutzlos, wie uns Frau Huber von ClimatePartner erklärt. Diese Projekte sind nicht sehr nachhaltig und effizient. Meist werden einfach Monokulturen in irgendeinem Klima angepflanzt, ohne dass die Bedürfnisse der Baumart vorgängig abgeklärt werden, so dass sie nicht gut wachsen. «Wenn Bäume gepflanzt werden, soll mit Experten gearbeitet werden und alles wissenschaftlich geregelt werden», führt sie weiter aus.\
-Das Pflanzen allein reicht also nicht, um etwas zum Klimawandel beizutragen.
-
-Waldschutzprojekte sind etwas anders, denn bei ihnen wird schon bestehender Wald geschützt. Obwohl manche Regionen schon als Schutzgebiet gelten, können diese immer noch gefährdet sein, sagt uns Frau Huber. Zum Beispiel das Waldschutzprojekt ‘Madre de Dios’ in Peru. ClimatePartner schützt diesen Wald, da er von einem Strassenbauprojekt (Transamazonas) bedroht ist. Hier geht es darum, dieses Gebiet langfristig zu erhalten und zu schützen.
-
-Eine weitere Kategorie von Projekten befasst sich mit Energieproblemen. Hier sorgen die Firmen für effizientere und saubere Technologien, meist in Entwicklungsländer. Frau Huber sprach mit uns über ein Projekt in Ruanda. Der Wald sei dort bedroht, weil die Bevölkerung immer mehr Brennholz für den Haushalt bräuchte. Firmen wie ClimatePartner biete ihnen saubere Öfen an, um das Ökosystem zu schützen und somit CO2 einzusparen.
-```

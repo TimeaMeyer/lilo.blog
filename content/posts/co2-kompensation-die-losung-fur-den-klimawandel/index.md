@@ -13,8 +13,6 @@ In Supermärkten sieht Lina immer mehr Labels, die Klimaneutralität versprech
 
 {{<lead>}}
 
-
-
 **Klimaneutralität, wie?**
 
 "Klimaneutral"- dieses Label soll zeigen, dass sich ein Unternehmen mit seinem CO2- Fussabdruck befasst und bereit ist, diesen zu verkleinern und nach nachhaltigen Lösungen zu suchen. Eigentlich eine gute Idee, doch dahinter steckt eine ganze Wirtschaft, die von diesen Versprechen lebt.
@@ -55,11 +53,9 @@ Dieser Artikel zeigt, wie undurchsichtig dieses Geschäft ist. Firmen, die unre
 
 Ausserdem beinhalten Messungen oft nicht alle externen Faktoren, die wiederum umweltschädlich oder sozial unverträglich sein können. Eine klimaneutrale Schokoladentafel; zum Beispiel - sie hat zwar einen geringen Fussabdruck, aber was ist mit den Bauern, die die Kakaobohnen unter schlechten Arbeitsbedingungen angebaut haben?
 
-
-
 **Die verschiedenen Arten von Klimaschutzprojekte**
 
-{{<box>}}
+`{{<box title="Ausklappbare Box">}}`
 
 Nachdem sich dein Unternehmen mit seinem Fussabdruck befasst hat und seine Emissionen nach und nach durch innovative Lösungen zu senken beginnt, werden die restlichen Emissionen durch Klimaschutzprojekte kompensiert.\
 Es gibt verschiedene Kategorien von Klimaschutzprojekten:

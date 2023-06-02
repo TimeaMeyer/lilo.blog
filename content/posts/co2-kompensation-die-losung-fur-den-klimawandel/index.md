@@ -21,7 +21,7 @@ Stell dir vor, du hast ein Unternehmen und dein Ziel ist es, bis ins Jahr 2040 N
 
 Dein Unternehmen hat jetzt die Möglichkeit, einer spezialisierten Firma (in unserem Bespiel ClimatePartner) Geld zu zahlen, damit diese den CO2-Fussabdruck deines Unternehmens berechnet. Sie zeigt dir diverse Strategien auf, wie du dem Ziel Netto-Null näherkommen kannst. Wir haben mit Lorena Huber, die Sustainability Consultant von ClimatePartner, ein Interview über Teams geführt. Die professionell wirkende junge Frau sitzt passend zu unserem Thema vor einem Bild eines grünen Regenwaldes und dem Logo von ClimatePartner. So berichtet sie uns: «ClimatePartner ist eine Rundumlösung. Im besten Fall für Kunden, die sich effektiv für Klimaschutz interessieren, das heisst für Kunden die wirklich eine Klimaschutzstrategie aufbauen möchten, die vielleicht noch keine Vorstellungen haben, wie man Klimaschutz im Unternehmen umsetzen kann.» Der Rest der Emissionen, der nicht durch diese Strategien eingespart werden kann, wird dann durch CO2 Zertifikate kompensiert. Frau Huber erklärt uns, dass es bei ClimatePartner so sei, dass die Firma mit ihren Kunden nach nachhaltigen und langfristigen Lösungen suche, damit eines Tages der Kunde gar keine Emissionen mehr verursache. An dieser Stelle würde man dann von Netto-Null sprechen.
 
-
+![Foto: Timea Meyer (26.04.2023)  ](photo-2023-04-26-19-51-44.png "Honig mit dem ClimatePartner Siegel")
 
 **Umstrittene Kompensation**
 

@@ -66,8 +66,6 @@ Es gibt verschiedene Kategorien von Klimaschutzprojekten:
 * Waldschutzprojekte sind etwas anders, denn bei ihnen wird schon bestehender Wald geschützt. Obwohl manche Regionen schon als Schutzgebiet gelten, können diese immer noch gefährdet sein, sagt uns Frau Huber. Zum Beispiel das Waldschutzprojekt ‘Madre de Dios’ in Peru. ClimatePartner schützt diesen Wald, da er von einem Strassenbauprojekt (Transamazonas) bedroht ist. Hier geht es darum, dieses Gebiet langfristig zu erhalten und zu schützen.
 * Eine weitere Kategorie von Projekten befasst sich mit Energieproblemen. Hier sorgen die Firmen für effizientere und saubere Technologien, meist in Entwicklungsländer. Frau Huber sprach mit uns über ein Projekt in Ruanda. Der Wald sei dort bedroht, weil die Bevölkerung immer mehr Brennholz für den Haushalt bräuchte. Firmen wie ClimatePartner biete ihnen saubere Öfen an, um das Ökosystem zu schützen und somit CO2 einzusparen.
 
-
-
 {{<box>}}
 
 **Doch was ist nun die Lösung?**

@@ -53,7 +53,7 @@ Dieser Artikel zeigt, wie undurchsichtig dieses Geschäft ist. Firmen, die unre
 
 Ausserdem beinhalten Messungen oft nicht alle externen Faktoren, die wiederum umweltschädlich oder sozial unverträglich sein können. Eine klimaneutrale Schokoladentafel; zum Beispiel - sie hat zwar einen geringen Fussabdruck, aber was ist mit den Bauern, die die Kakaobohnen unter schlechten Arbeitsbedingungen angebaut haben?
 
-`{{<box title="`**Die verschiedenen Arten von Klimaschutzprojekte**`">}}`
+`{{<box title="`Die verschiedenen Arten von Klimaschutzprojekte`">}}`
 
 Nachdem sich dein Unternehmen mit seinem Fussabdruck befasst hat und seine Emissionen nach und nach durch innovative Lösungen zu senken beginnt, werden die restlichen Emissionen durch Klimaschutzprojekte kompensiert.\
 Es gibt verschiedene Kategorien von Klimaschutzprojekten:

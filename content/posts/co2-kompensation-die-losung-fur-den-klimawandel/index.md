@@ -41,7 +41,7 @@ Auf Nachfrage der Journalistinnen, schrieb myclimate, dass es gar nicht möglic
 
 > «Schließlich sollen wir 571 Euro zahlen. Die Einzelposten auf der Rechnung sind bemerkenswert: 422,65 Euro verlangt myclimate dafür, dass wir das Label nutzen dürfen. Nur 149 Euro fließen in das Klimaprojekt, um tatsächlich CO2 einzusparen.»
 >
-> * *Astrid Geisler & Hanna Knuth* [Link ](https://www.zeit.de/2022/37/klimalabel-klimaneutralitaet-klimaschutz-versprechen)
+> *Astrid Geisler & Hanna Knuth: [Link ](https://www.zeit.de/2022/37/klimalabel-klimaneutralitaet-klimaschutz-versprechen)*
 
 Es gibt Prüfungssiegel, aus welchen die Firmen auswählen können, welches zu ihnen passt. Die Prüfungssiegel sind private Unternehmen, die ihr Geld damit verdienen, indem sie die Firmen "prüfen".\
 So schrieb die NZZ in einem Artikel vom 14.03.2023ii: «Doch jüngste Enthüllungen könnten dem boomenden Geschäft mit den Klimakompensationen nun einen harten Schlag versetzen. Auslöser ist eine Ende Januar publizierte Recherche der deutschen «Zeit», des britischen «Guardian» und des Reporterpools «Source Material».
@@ -68,6 +68,8 @@ Es gibt verschiedene Kategorien von Klimaschutzprojekten:
 
 {{</box>}}
 
+
+
 **Doch was ist nun die Lösung?**
 
 ![ Einkaufskorb mit verschiedenen "klimaneutralen" Produkten Foto: Nouria Felder (26.04.2023)  ](whatsapp-image-2023-04-27-at-11.10.29.jpeg)
@@ -92,7 +94,7 @@ Der ganze Markt wird aktuell von verschiedenen Seiten und Klimaschutzorganisatio
 
 > «Es ist ein moderner Ablasshandel, ich «sündige» und danach zahle ich halt ein bisschen mehr.»
 >
-> *\-* Lina
+> *Lina*
 
 Auf die Frage, was man als Konsument machen könnte, gibt Lorena Huber uns den Tipp, dass man darauf achten solle, ob sich das Label nur auf das Produkt bezieht oder auf das Ganze Unternehmen. Sie macht auch klar, dass bei vielen Unternehmen nicht alle Faktoren in die CO2-Bilanz miteinbezogen werden.
 

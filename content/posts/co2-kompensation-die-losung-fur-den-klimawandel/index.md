@@ -14,6 +14,8 @@ footnotes = "*i Die Zeit-Artikel: «Ein Strauß leerer Versprechen» von Geisler
 
 {{<lead>}}
 
+
+
 **Klimaneutralität, wie?**
 
 "Klimaneutral"- dieses Label soll zeigen, dass sich ein Unternehmen mit seinem CO2- Fussabdruck befasst und bereit ist, diesen zu verkleinern und nach nachhaltigen Lösungen zu suchen. Eigentlich eine gute Idee, doch dahinter steckt eine ganze Wirtschaft, die von diesen Versprechen lebt.

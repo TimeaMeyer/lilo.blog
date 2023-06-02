@@ -53,9 +53,7 @@ Dieser Artikel zeigt, wie undurchsichtig dieses Geschäft ist. Firmen, die unre
 
 Ausserdem beinhalten Messungen oft nicht alle externen Faktoren, die wiederum umweltschädlich oder sozial unverträglich sein können. Eine klimaneutrale Schokoladentafel; zum Beispiel - sie hat zwar einen geringen Fussabdruck, aber was ist mit den Bauern, die die Kakaobohnen unter schlechten Arbeitsbedingungen angebaut haben?
 
-**Die verschiedenen Arten von Klimaschutzprojekte**
-
-`{{<box title="Ausklappbare Box">}}`
+`{{<box title="`**Die verschiedenen Arten von Klimaschutzprojekte**`">}}`
 
 Nachdem sich dein Unternehmen mit seinem Fussabdruck befasst hat und seine Emissionen nach und nach durch innovative Lösungen zu senken beginnt, werden die restlichen Emissionen durch Klimaschutzprojekte kompensiert.\
 Es gibt verschiedene Kategorien von Klimaschutzprojekten:
@@ -63,6 +61,4 @@ Es gibt verschiedene Kategorien von Klimaschutzprojekten:
 * «Kaufe ein Produkt, pflanze einen Baum». Solche Strategien sind sehr beliebt, jedoch meistens nutzlos, wie uns Frau Huber von ClimatePartner erklärt. Diese Projekte sind nicht sehr nachhaltig und effizient. Meist werden einfach Monokulturen in irgendeinem Klima angepflanzt, ohne dass die Bedürfnisse der Baumart vorgängig abgeklärt werden, so dass sie nicht gut wachsen. «Wenn Bäume gepflanzt werden, soll mit Experten gearbeitet werden und alles wissenschaftlich geregelt werden», führt sie weiter aus.\
   Das Pflanzen allein reicht also nicht, um etwas zum Klimawandel beizutragen.
 * Waldschutzprojekte sind etwas anders, denn bei ihnen wird schon bestehender Wald geschützt. Obwohl manche Regionen schon als Schutzgebiet gelten, können diese immer noch gefährdet sein, sagt uns Frau Huber. Zum Beispiel das Waldschutzprojekt ‘Madre de Dios’ in Peru. ClimatePartner schützt diesen Wald, da er von einem Strassenbauprojekt (Transamazonas) bedroht ist. Hier geht es darum, dieses Gebiet langfristig zu erhalten und zu schützen.
-* Eine weitere Kategorie von Projekten befasst sich mit Energieproblemen. Hier sorgen die Firmen für effizientere und saubere Technologien, meist in Entwicklungsländer. Frau Huber sprach mit uns über ein Projekt in Ruanda. Der Wald sei dort bedroht, weil die Bevölkerung immer mehr Brennholz für den Haushalt bräuchte. Firmen wie ClimatePartner biete ihnen saubere Öfen an, um das Ökosystem zu schützen und somit CO2 einzusparen.
-
-{{<box>}}
+* Eine weitere Kategorie von Projekten befasst sich mit Energieproblemen. Hier sorgen die Firmen für effizientere und saubere Technologien, meist in Entwicklungsländer. Frau Huber sprach mit uns über ein Projekt in Ruanda. Der Wald sei dort bedroht, weil die Bevölkerung immer mehr Brennholz für den Haushalt bräuchte. Firmen wie ClimatePartner biete ihnen saubere Öfen an, um das Ökosystem zu schützen und somit CO2 einzusparen.{{<box>}}

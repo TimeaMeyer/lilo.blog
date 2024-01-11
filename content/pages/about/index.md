@@ -4,17 +4,13 @@ draft = false
 image = "img_2263-2-2-.jpg"
 description = ""
 +++
-
-
 ![]()
 
 ## Timea Meyer
 
 ##### Mail:
 
-timea.meyer@mygymer.ch (Schule)
-
-timeameyer@gmx.ch (Privat)
+timea.meyer@mygymer.ch 
 
 ##### Social Media:
 

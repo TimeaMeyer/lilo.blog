@@ -3,6 +3,7 @@ title = "Comment Meursault reflète-t-il la société algérienne coloniale de l
 date = "2025-02-13"
 draft = false
 pinned = false
+image = "camus-couv-bd-1-3-.jpg"
 footnotes = "Sources: \n\n* <https://www.erudit.org/fr/revues/etudfr/2020-v56-n2-etudfr05582/1072483ar/?utm>\n* <https://www.monde-diplomatique.fr/2000/11/SAID/2555?utm>\n* <https://www.histoire-immigration.fr/meursault-contre-enquete?utm>"
 +++
 **Meursault et la société coloniale en Algérie**
@@ -26,3 +27,15 @@ Mais en même temps, Meursault est aussi victime. Au procès, on le juge pas vra
 Aujourd’hui, on peut lire *L’Étranger* d’une autre façon. Camus critique peut-être la colonisation sans le dire directement. Meursault est un étranger dans la société, comme les colons étaient des étrangers en Algérie. Son indifférence fait penser aux Français qui ne regardent pas les Algériens.
 
 Mais Meursault n’est pas seulement un reflet du colonialisme. Peut-être qu’il résiste aussi. Il refuse de mentir, il reste lui-même jusqu’à la fin. Il ne veut pas jouer le jeu de la société. Alors, il n’est pas juste un miroir du colonialisme, il est aussi un homme perdu dans un monde absurde.
+
+
+
+Fun Facts sur le context historique:
+
+1. L’Algérie était une colonie française depuis 1830, mais elle était considérée comme une partie de la France.
+2. La colonisation créait des tensions : la France empêchait toute demande d’indépendance et réprimait durement les révoltes.
+3. L’éducation était inégale : en 1954, seulement 10 % des Algériens musulmans savaient écrire en français, contre presque 100 % des Européens.
+4. Albert Camus défendait les droits des Algériens, mais il ne croyait pas en une indépendance totale de l’Algérie.
+5. Dans le Guerre et Résistance 1942– *L’Étranger* est publié l’année où les Alliés débarquent en Afrique du Nord (*Opération Torch*) et où Camus écrit contre les nazis dans la Résistance.
+6. Camus travaille pour *Alger Républicain* et critique le colonialisme, mais le journal est interdit et il doit quitter l’Algérie.
+7. En 1960, il meurt dans un accident de voiture, alors qu’il voulait prendre le train ; dans sa poche, il y avait le manuscrit inachevé de son prochain livre.
